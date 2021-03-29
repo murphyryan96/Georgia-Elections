@@ -1,7 +1,7 @@
 # Georgia Elections
 *Information on federal elections in Georgia regarding registered voter demographics and election outcomes.*
 
-### Should the result of Georgia voters favoring the Democratic candidates have come as a surprise to the country? Is this likely to be repeated in subsequent federal elections?
+### Should the result of Georgia voters favoring the Democratic candidates in 2020 have come as a surprise to the country? Is this likely to be repeated in subsequent federal elections?
 
 Georgia stole the national spotlight in the United States during a contentious federal election in 2020, prompting many to cry foul about the results.
 
